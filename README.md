@@ -1,7 +1,7 @@
 # Car Racer Game
 
 Car Racer Game is a 2D game written in Java. The game simulates the car racer trying to pass another car on the roads. The more car he passed, the higher score he got.
-
+<img src="https://raw.githubusercontent.com/voquanghieu28/Car-Game/master/resources/screenshots.PNG">
 
 ## Requirement and Installation
 
